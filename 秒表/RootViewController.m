@@ -17,8 +17,18 @@
     [self creatButton];
     [self creatLabel];
     [self creatTimer];
+    //
+    [self createABC];
 }
 
+
+- (void)createABC
+{
+    NSString *abc = @"abc";
+
+
+
+}
 
 - (void)didReceiveMemoryWarning{
 
